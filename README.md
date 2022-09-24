@@ -1,4 +1,8 @@
-### Oie! Eu sou o Shil 😁
+### Oie,
+### Eu sou o Erick, estudante de programação e futuro técnico eletrônico!
+
+<hr>
+
 
 
 <!--
@@ -15,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
